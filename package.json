@@ -1,0 +1,30 @@
+{
+  "name": "@moviecast/rarbg-api",
+  "version": "0.0.1",
+  "description": "A RARBG API wrapper used by MovieCast's scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MovieCast/rarbg-api.git"
+  },
+  "keywords": [
+    "rarbg",
+    "api",
+    "wrapper",
+    "movies",
+    "shows"
+  ],
+  "author": "Dizzy <itsdizzy40@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MovieCast/rarbg-api/issues"
+  },
+  "homepage": "https://github.com/MovieCast/rarbg-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^8.2.0"
+  }
+}
